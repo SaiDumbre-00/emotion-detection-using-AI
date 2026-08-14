@@ -76,4 +76,3 @@ Through this project, I gained practical experience in:
 * Support multiple languages
 * Deploy the project as a web application
 
-Computer Engineering / AI & DS Student
